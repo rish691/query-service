@@ -20,6 +20,8 @@ public class QueryServiceConfig {
   public String getQueryServiceHost() {
     return this.queryServiceHost;
   }
+  
+  
 
   public int getQueryServicePort() {
     return queryServicePort;
